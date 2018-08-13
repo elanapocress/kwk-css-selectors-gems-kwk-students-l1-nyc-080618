@@ -7,9 +7,7 @@
   left: 175px;
 }
 
-#emerald
-
-/*selector for emerald goes here */  {
+#emerald {
   position: absolute;
   z-index: 2;
   top: 350px;
